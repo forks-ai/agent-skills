@@ -1,3 +1,13 @@
+## 0.1.8 (2026-10-08)
+
+### 🩹 Fixes
+
+- **marketplace:** point public links to the custom domain and trim the /skills/ payload ([#224](https://github.com/tech-leads-club/agent-skills/pull/224))
+
+### ❤️ Thank You
+
+- William R. Fernandes
+
 ## 0.1.7 (2026-08-30)
 
 This was a version bump only for @tech-leads-club/agent-skills-mcp to align it with other projects, there were no code changes.
